@@ -1,3 +1,4 @@
 path/to/similarty.pkl filter=lfs diff=lfs merge=lfs -text
 similarty.pkl filter=lfs diff=lfs merge=lfs -text
+similarty.zip filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
