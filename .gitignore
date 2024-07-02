@@ -1,0 +1,15 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist
+build
+*.log
+
+# Virtual environment
+myenv/
+venv/
+env/
+.venv/
