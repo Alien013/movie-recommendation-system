@@ -13,3 +13,9 @@ myenv/
 venv/
 env/
 .venv/
+
+# Ignore virtual environment
+myenv/
+
+# Explicitly include large file (if it's not already excluded by myenv/)
+!myenv/similarty.pkl
